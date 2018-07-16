@@ -1,0 +1,65 @@
+Game Started at: 12:55 24-Mar-2018
+Game Finished at: 13:54 24-Mar-2018
+Rounds: 59
+Won: 23
+Lost: 35
+-- 
+Round 1: lost.
+Round 2: lost.
+Round 3: won.
+Round 4: won.
+Round 5: won.
+Round 6: lost.
+Round 7: lost.
+Round 8: lost.
+Round 9: lost.
+Round 10: lost.
+Round 11: lost.
+Round 12: lost.
+Round 13: won.
+Round 14: won.
+Round 15: lost.
+Round 16: lost.
+Round 17: lost.
+Round 18: won.
+Round 19: won.
+Round 20: won.
+Round 21: lost.
+Round 22: lost.
+Round 23: lost.
+Round 24: won.
+Round 25: won.
+Round 26: draw.
+Round 27: lost.
+Round 28: lost.
+Round 29: lost.
+Round 30: lost.
+Round 31: won.
+Round 32: won.
+Round 33: lost.
+Round 34: lost.
+Round 35: lost.
+Round 36: lost.
+Round 37: lost.
+Round 38: lost.
+Round 39: lost.
+Round 40: lost.
+Round 41: won.
+Round 42: won.
+Round 43: won.
+Round 44: won.
+Round 45: lost.
+Round 46: lost.
+Round 47: lost.
+Round 48: won.
+Round 49: won.
+Round 50: lost.
+Round 51: lost.
+Round 52: won.
+Round 53: won.
+Round 54: lost.
+Round 55: lost.
+Round 56: won.
+Round 57: won.
+Round 58: lost.
+Round 59: won.

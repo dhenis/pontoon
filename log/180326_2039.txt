@@ -1,0 +1,10 @@
+Game Started at: 20:39 26-Mar-2018
+Game Finished at: 20:42 26-Mar-2018
+Rounds: 4
+Won: 1
+Lost: 3
+-- 
+Round 1: lost.
+Round 2: lost.
+Round 3: lost.
+Round 4: won.

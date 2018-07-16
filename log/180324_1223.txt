@@ -1,0 +1,28 @@
+Game Started at: 12:23 24-Mar-2018
+Game Finished at: 12:29 24-Mar-2018
+Rounds: 22
+Won: 6
+Lost: 15
+-- 
+Round 1: won.
+Round 2: lost.
+Round 3: lost.
+Round 4: won.
+Round 5: lost.
+Round 6: lost.
+Round 7: won.
+Round 8: lost.
+Round 9: lost.
+Round 10: lost.
+Round 11: lost.
+Round 12: won.
+Round 13: lost.
+Round 14: lost.
+Round 15: won.
+Round 16: lost.
+Round 17: won.
+Round 18: lost.
+Round 19: lost.
+Round 20: lost.
+Round 21: lost.
+Round 22: draw.
